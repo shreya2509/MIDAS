@@ -1,7 +1,3 @@
-# MIDAS
-contains task submission to MIDAS
-
-
 SPEECH EMOTION PROBLEM  
 This folder is in the following order
 - Experiment Log.docx contains the overall process
