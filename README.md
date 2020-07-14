@@ -1,5 +1,5 @@
 SPEECH EMOTION PROBLEM  
-This folder is in the following order
+Contains the following:
 - Experiment Log.docx contains the overall process
 - exploring_data.ipynb contains first attempt to explore features
 - Extracting Features and train MLP.ipynb includes extracting features and training a basic MLP and remove noise
